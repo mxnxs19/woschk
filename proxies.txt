@@ -1,0 +1,9 @@
+http://g2rTXpNfPdcw2fzGtWKp62yH:nizar1elad2@fr-par.pvdata.host:8080
+http://g2rTXpNfPdcw2fzGtWKp62yH:nizar1elad2@cz-pra.pvdata.host:8080
+http://g2rTXpNfPdcw2fzGtWKp62yH:nizar1elad2@lu-lux.pvdata.host:8080
+http://g2rTXpNfPdcw2fzGtWKp62yH:nizar1elad2@pt-lis.pvdata.host:8080
+http://g2rTXpNfPdcw2fzGtWKp62yH:nizar1elad2@de-fra.pvdata.host:8080
+http://g2rTXpNfPdcw2fzGtWKp62yH:nizar1elad2@se-sto.pvdata.host:8080
+http://g2rTXpNfPdcw2fzGtWKp62yH:nizar1elad2@nl-ams.pvdata.host:8080
+http://g2rTXpNfPdcw2fzGtWKp62yH:nizar1elad2@it-mil.pvdata.host:8080
+http://g2rTXpNfPdcw2fzGtWKp62yH:nizar1elad2@co-bog.pvdata.host:8080
